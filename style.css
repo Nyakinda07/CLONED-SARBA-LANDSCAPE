@@ -21,7 +21,12 @@ h2{
 
 ul{
     list-style: none;
-    gap: 15px;
+    gap: 40px;
     display: flex;
-    background-color: rgb(22, 92, 22);
+   background-color: rgb(17, 92, 17);
+   font-size: 20px;
+}
+
+address{
+    margin-top: 300px;
 }
