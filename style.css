@@ -1,0 +1,27 @@
+#About{
+    margin-top: 400px;
+    display: grid;
+    grid-template-columns: auto 1fr; /* Image takes natural size, text fills remaining space */
+    align-items: center;
+    gap: 20px;;
+}
+
+#title{
+    text-align: center;
+}
+
+img{
+    height: auto;
+    width: 250px;
+}
+
+h2{
+    text-align: left;
+}
+
+ul{
+    list-style: none;
+    gap: 15px;
+    display: flex;
+    background-color: rgb(22, 92, 22);
+}
